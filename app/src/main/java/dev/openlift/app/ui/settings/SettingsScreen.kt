@@ -165,7 +165,7 @@ fun SettingsScreen(navController: NavHostController) {
 
             item {
                 Text(
-                    text = "OpenLift v0.1.0 · GPL-3.0 · Open source, no tracking, no ads.",
+                    text = "OpenLift v0.1.0 · MIT · Open source, no tracking, no ads.",
                     style = MaterialTheme.typography.labelMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     modifier = Modifier.fillMaxWidth().padding(top = 8.dp)

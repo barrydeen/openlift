@@ -33,7 +33,7 @@ and you can export/import a single backup JSON file when you want to move it.
 - **Local-only storage** in SQLite via Room with `allowBackup=false` and backup excluded from
   cloud/device-transfer rules — data doesn't leave the device except through your explicit export.
 - **Manual DI**, no heavy frameworks, R8 + resource shrinking for a small, fast APK (≈1.9 MB).
-- **F-Droid-friendly** GPL-3.0 licensed build configuration.
+- **F-Droid-friendly** MIT-licensed build configuration.
 
 ## Getting started
 
@@ -89,4 +89,4 @@ app/src/main/java/dev/openlift/app/
 
 ## License
 
-GPL-3.0-only. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).

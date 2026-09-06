@@ -8,3 +8,6 @@ local.properties
 captures/
 .externalNativeBuild/
 .cxx/
+
+# local release signing keystore
+openlift-release.jks
